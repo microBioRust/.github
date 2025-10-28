@@ -1,7 +1,7 @@
 # Welcome to microBioRust! 
 <img src="assets/MICROBIO B.svg#gh-light-mode-only" alt="microBioRust logo light mode" width="200">
 <img src="assets/BIO W.png#gh-dark-mode-only" alt="microBioRust logo dark mode" width="200">
-[![Docs](https://img.shields.io/badge/docs-mkdocs-blue.svg)](https://lcrossman.github.io/microBioRust/)
+[![Docs](https://img.shields.io/badge/docs-mkdocs-blue.svg)(https://microbiorust.github.io/microBioRust/)
 ![Crates.io Version](https://img.shields.io/crates/v/microBioRust?style=flat&link=https%3A%2F%2Fcrates.io%2Fcrates%2FmicroBioRust)
 
 micro*BioRust* is a bioinformatics crate for microbial genomics, written in Rust.
