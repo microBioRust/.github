@@ -9,7 +9,7 @@ This organization houses all the resources for the project.
 ## How to Get Started
 
 * **Code:** Check out our main code repository at **[microbiorust/microBioRust](https://github.com/microbiorust/microBioRust)**.
-* **Docs:** Read the full documentation at **[microbiorust/docs](https://github.com/microbiorust/microbiorust-docs)**. ## Community
+* **Docs:** Read the full documentation at **[microbiorust/docs](https://microbiorust.github.io/docs/)**. ## Community
 
 *Where to go*
 
